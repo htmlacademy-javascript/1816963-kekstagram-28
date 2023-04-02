@@ -1,3 +1,3 @@
-import {getPhoto} from './data.js';
+import {createContent} from './thumbnails.js';
 
-getPhoto();
+createContent();
